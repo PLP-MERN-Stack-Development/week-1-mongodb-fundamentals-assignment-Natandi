@@ -35,7 +35,7 @@ load("queries.js")
 
 Here is the screenshot of the mongo compass with the collections and sample data
 
-Screenshot.png
+
 
 
 
